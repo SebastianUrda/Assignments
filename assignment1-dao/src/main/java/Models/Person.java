@@ -79,6 +79,14 @@ public class Person {
 	public void setName(String name) {
 		this.name = name;
 	}
+
+	public Boolean getIsadmin() {
+		return isadmin;
+	}
+
+	public void setIsadmin(Boolean isadmin) {
+		this.isadmin = isadmin;
+	}
 	
 	
 	
